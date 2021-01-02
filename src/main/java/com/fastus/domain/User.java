@@ -1,4 +1,4 @@
-package com.fastus.model;
+package com.fastus.domain;
 
 /**
  * Created by Tom - 02.01.2021

@@ -1,5 +1,7 @@
 package com.fastus.model;
 
+import com.fastus.domain.User;
+import com.fastus.mappers.UserMapper;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
